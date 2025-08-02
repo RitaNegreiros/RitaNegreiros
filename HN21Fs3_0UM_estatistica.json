@@ -1,0 +1,1354 @@
+{
+    "statistics": {
+      "kind": "youtube#videoListResponse",
+      "etag": "wnfvv1BUYRq0Wt_RE1PElL1ZALE",
+      "items": [
+        {
+          "kind": "youtube#video",
+          "etag": "5KQIWitNFTjNhC7JQi5fyUfYa3g",
+          "id": "HN21Fs3_0UM",
+          "snippet": {
+            "publishedAt": "2023-04-05T12:51:32Z",
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "title": "¿Qué está acabando con la tribu más grande del Amazonas? | Los Yanomamis",
+            "description": "Aprende quiénes son los yanomami, dónde viven, su cultura, cómo están desapareciendo y más.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/HN21Fs3_0UM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/HN21Fs3_0UM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/HN21Fs3_0UM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/HN21Fs3_0UM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/HN21Fs3_0UM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Lifeder",
+            "tags": [
+              "tribus",
+              "Amazonas",
+              "yanomami",
+              "Brasil",
+              "Venezuela",
+              "Sudamérica",
+              "América del SUr"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "¿Qué está acabando con la tribu más grande del Amazonas? | Los Yanomamis",
+              "description": "Aprende quiénes son los yanomami, dónde viven, su cultura, cómo están desapareciendo y más."
+            },
+            "defaultAudioLanguage": "es"
+          },
+          "contentDetails": {
+            "duration": "PT19M40S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+          },
+          "status": {
+            "uploadStatus": "processed",
+            "privacyStatus": "public",
+            "license": "youtube",
+            "embeddable": true,
+            "publicStatsViewable": true,
+            "madeForKids": false
+          },
+          "statistics": {
+            "viewCount": "188416",
+            "likeCount": "967",
+            "favoriteCount": "0",
+            "commentCount": "38"
+          },
+          "player": {
+            "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/HN21Fs3_0UM\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>"
+          },
+          "topicDetails": {
+            "topicCategories": [
+              "https://en.wikipedia.org/wiki/Entertainment",
+              "https://en.wikipedia.org/wiki/Film"
+            ]
+          },
+          "recordingDetails": {},
+          "localizations": {
+            "vi": {
+              "title": "Điều gì đang xóa sổ bộ lạc lớn nhất ở Amazon?",
+              "description": "Tìm hiểu xem người Yanomami là ai, họ sống ở đâu, văn hóa của họ, họ đang biến mất như thế nào, v.v."
+            },
+            "it": {
+              "title": "Cosa sta spazzando via la più grande tribù dell'Amazzonia?",
+              "description": "Scopri chi sono gli Yanomami, dove vivono, la loro cultura, come stanno scomparendo e altro ancora."
+            },
+            "ky": {
+              "title": "Амазонкадагы эң чоң урууну эмне жок кылып жатат?",
+              "description": "Yanomami ким экенин, алар кайда жашашат, маданияты, кантип жок болуп баратканы жана башкалар."
+            },
+            "en": {
+              "title": "What is wiping out the largest tribe in the Amazon?",
+              "description": "Learn who the Yanomami are, where they live, their culture, how they are disappearing, and more."
+            },
+            "th": {
+              "title": "อะไรคือการกวาดล้างชนเผ่าที่ใหญ่ที่สุดในอเมซอน?",
+              "description": "เรียนรู้ว่าพวก Yanomami คือใคร พวกเขาอาศัยอยู่ที่ไหน วัฒนธรรมของพวกเขา พวกเขาหายไปได้อย่างไร และอื่นๆ อีกมากมาย"
+            }
+          }
+        }
+      ],
+      "pageInfo": {
+        "totalResults": 1,
+        "resultsPerPage": 1
+      }
+    },
+    "comments": {
+      "items": [
+        {
+          "kind": "youtube#commentThread",
+          "etag": "r602x9gh0tETjQ-q5bXoiC3SzVU",
+          "id": "UgxSG9aedULnzXrwcVd4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "76YoNp-YqwlmWrECbeBF3BLCQcM",
+              "id": "UgxSG9aedULnzXrwcVd4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "¿Cómo crees que se puede resolver la situación de los yanomami?",
+                "textOriginal": "¿Cómo crees que se puede resolver la situación de los yanomami?",
+                "authorDisplayName": "@Lifedervideo",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ENShZ_lzoQaIkB4TyZ6heNl-dvZKY0EKV34xL3oQOXCHzNZxo4kB6oeSeATVQ9DgLPBbaT1q7Q=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@Lifedervideo",
+                "authorChannelId": {
+                  "value": "UCiP5vmNYR-LuUA3LARZBAoQ"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2023-04-14T01:01:01Z",
+                "updatedAt": "2023-04-14T01:01:01Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "BNCnAIH4Lx9b0fuakQWblhaXamI",
+          "id": "UgxIS2Bgwavsj-FwywZ4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "gDjH4F8Rb-nwDjn7tmoqt8TPVNk",
+              "id": "UgxIS2Bgwavsj-FwywZ4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Que lastima que no podamos ayudar",
+                "textOriginal": "Que lastima que no podamos ayudar",
+                "authorDisplayName": "@juanch9055",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nG93oJAzt2dOoj_1U0DyHNpy765Pf5GrTf5dAfZhhN84D6=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@juanch9055",
+                "authorChannelId": {
+                  "value": "UCmWeZJE-ISFYWw7lmJm4t9w"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2024-12-05T17:36:31Z",
+                "updatedAt": "2024-12-05T17:36:31Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "aMPvXHayjU0-kV6XX3nI1Y1Z7GA",
+          "id": "UgxJgcnMb-50ZnLniER4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "zpkemTa4atOYyqpg-kOsA2oG_mA",
+              "id": "UgxJgcnMb-50ZnLniER4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Tengo un sinbolo de la cruz chacana traida de esa tribu ❤",
+                "textOriginal": "Tengo un sinbolo de la cruz chacana traida de esa tribu ❤",
+                "authorDisplayName": "@JoséRiestra-p2z",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n5CE76MVQkMhu6a4iK8az9kQPv_kPr-iuQ5nXhdG29qrENWaHeBnsbgnZdiKIuS-Wfkw=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@Jos%C3%A9Riestra-p2z",
+                "authorChannelId": {
+                  "value": "UCaDApqELwLGQcZM1L9XsPTg"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2024-10-27T05:39:28Z",
+                "updatedAt": "2024-10-27T05:39:28Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "3v-MSIJUa3wQzO2lbJwjZbPJTgk",
+          "id": "UgwozpavuBlKMUxpNxl4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "UOVPf3VHvk4_Rv-egHB-_BAxrkE",
+              "id": "UgwozpavuBlKMUxpNxl4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "La codicia del hombre siempre han lastimado a esos sabios indigena ,<br>Son los más sano",
+                "textOriginal": "La codicia del hombre siempre han lastimado a esos sabios indigena ,\nSon los más sano",
+                "authorDisplayName": "@eldaivonneeurrutiafarina4489",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lSIFVve8GAH2yqMoLLtWJOIJ9qwahdSmqdop3Tx1o8Hh0=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@eldaivonneeurrutiafarina4489",
+                "authorChannelId": {
+                  "value": "UCsivhS6AWqRPhlgv09d8q7g"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2024-09-06T12:21:19Z",
+                "updatedAt": "2024-09-06T12:21:19Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "hU9TTd2c_6kyRdo5F4VJONXXibs",
+          "id": "UgwoOZgZ4ERXc3QQhsd4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "9a-aaAg2cC_XYaEPvwBDtajOT-k",
+              "id": "UgwoOZgZ4ERXc3QQhsd4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Pobres como siempre las estafas los an destruido",
+                "textOriginal": "Pobres como siempre las estafas los an destruido",
+                "authorDisplayName": "@patriciayolandamartinezgal6879",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_kWs6MD0bSk1KdmkOUxJW6iMA_nWBCZ2RLISTc023pUH-y7G0XJUN9DGZy6oFjSPt-GnA=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@patriciayolandamartinezgal6879",
+                "authorChannelId": {
+                  "value": "UCEpcduA7K2u1Ae5c1z1ZEKw"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2024-08-22T01:59:05Z",
+                "updatedAt": "2024-08-22T01:59:05Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "6AbCqro5UNQ4Bqc1VkAV15yF-Iw",
+          "id": "UgwD7Eg6ZpjsSwnOamB4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "mf4CZ_u2shw2cabHELEA-Aj5ueg",
+              "id": "UgwD7Eg6ZpjsSwnOamB4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Todos deberiamos defender a estar personas son producto de nuestros verdaderos origenes, quien olvida su historia esta condenada a repetirla",
+                "textOriginal": "Todos deberiamos defender a estar personas son producto de nuestros verdaderos origenes, quien olvida su historia esta condenada a repetirla",
+                "authorDisplayName": "@disneyrojas6387",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nv6Kq3060lW5vr2S9-tiq-6z2GWCNq9TC5isC7qDpRdFM=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@disneyrojas6387",
+                "authorChannelId": {
+                  "value": "UCsWFpR9O31s1u2SQriTMKSA"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 3,
+                "publishedAt": "2024-06-01T21:29:55Z",
+                "updatedAt": "2024-06-01T21:29:55Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "WXkAM0znbxpqF7zwLzZ-whkr_bY",
+          "id": "UgwNQsbDtaUBlBUKIqV4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "yDGJkh8XJ3eGLBczuIXXPjQmrl8",
+              "id": "UgwNQsbDtaUBlBUKIqV4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "&quot;Los yanomamis fueron victimas de la avaricia humana&quot; eso sonó raro, algun filosofo en la caja de comentarios que me ilumine?",
+                "textOriginal": "\"Los yanomamis fueron victimas de la avaricia humana\" eso sonó raro, algun filosofo en la caja de comentarios que me ilumine?",
+                "authorDisplayName": "@wualaguala",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mAc3vRKLleC_MkUIX02Ds5V1-YWdpeOW2JPP8wexw=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@wualaguala",
+                "authorChannelId": {
+                  "value": "UCs-fN--XIg9-wmRWASs1FpA"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2024-05-20T02:29:20Z",
+                "updatedAt": "2024-05-20T02:29:20Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "GlwFrCDi3TSWc6XEo2lk1aeVaAo",
+          "id": "UgzBg-cpUKeB-pmn0Mt4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "QKsSTu7FANIgy65mfAVQfJ_z1jQ",
+              "id": "UgzBg-cpUKeB-pmn0Mt4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Donde está Greta  thunberg??",
+                "textOriginal": "Donde está Greta  thunberg??",
+                "authorDisplayName": "@tonisuarez5554",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/xulP3MFLwPMu06pFNwNZ3V5tuAl03LhZnNcgTyZhKawgQtYbR22SRgmj7oYmwYAzrTY1BVJQZBg=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@tonisuarez5554",
+                "authorChannelId": {
+                  "value": "UC30oWU7AWB9XgVwqbOK-IMA"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2024-05-17T02:51:41Z",
+                "updatedAt": "2024-05-17T02:51:41Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "comments": {
+            "items": [
+              {
+                "kind": "youtube#comment",
+                "etag": "qs9VtNj7L5lVX0LWFbM8_utkquE",
+                "id": "UgzBg-cpUKeB-pmn0Mt4AaABAg.A3Wvu7D4DOQAC2voZYarQD",
+                "snippet": {
+                  "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                  "textDisplay": "Volando en el eco avion",
+                  "textOriginal": "Volando en el eco avion",
+                  "parentId": "UgzBg-cpUKeB-pmn0Mt4AaABAg",
+                  "authorDisplayName": "@tantrarojo44",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nfL1ysy6OwBOUDreX7Hu_cyBa6HRpPLvNMFkw62K8=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@tantrarojo44",
+                  "authorChannelId": {
+                    "value": "UCT080iQS3aC323GE5dm0kYQ"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2024-12-15T03:56:15Z",
+                  "updatedAt": "2024-12-15T03:56:15Z"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "82Sq2mW6vn9Nw8l2-kHkimR-tlw",
+          "id": "UgzCZ3W4bC0H9XwX5kZ4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "Z8FnLu1q1W4SHKrDnPcWCbeoUQk",
+              "id": "UgzCZ3W4bC0H9XwX5kZ4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Los indios no tiene enfermidades las gentes que contaminaron sus ríos",
+                "textOriginal": "Los indios no tiene enfermidades las gentes que contaminaron sus ríos",
+                "authorDisplayName": "@Bruna-k6t",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k78bXqxjvCHrukhuyGTsKlhlaQhxV6ae87tix931MAixZFqdBbIe8JVhOogv1wZNqh6A=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@Bruna-k6t",
+                "authorChannelId": {
+                  "value": "UCrDJ30wAkNcaI9Pq6B0gf8g"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2024-02-07T15:07:12Z",
+                "updatedAt": "2024-02-07T15:07:12Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "3nv_Qu6b-Fa3Vw614TmeJ5FtvP8",
+          "id": "Ugz8XK5F3J5oILKD5qt4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "vqcfOP3MvakZ9QS-ZZ8df90U90s",
+              "id": "Ugz8XK5F3J5oILKD5qt4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Demasiadas imagenes y videos que no corresponden.",
+                "textOriginal": "Demasiadas imagenes y videos que no corresponden.",
+                "authorDisplayName": "@antoniovaldes6269",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_m9WZBYOsiZtUgpxMRO8ue-hqsHL783Kuc8cy2dcXo=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@antoniovaldes6269",
+                "authorChannelId": {
+                  "value": "UCYHPQfJaAbQ5lM38L2JHd7w"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2023-07-15T22:26:10Z",
+                "updatedAt": "2023-07-15T22:26:10Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "Tli_PQcl9z22SL34ub7wHIQQDF0",
+          "id": "UgyP9lFrT3UnRIuxnu14AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "GaPj-rJ3PIRvRVbRkGHb0FBa4lw",
+              "id": "UgyP9lFrT3UnRIuxnu14AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "El ser humano lo destruye todo y no respetan nada,ni culturas,ni costumbres 🥺🤧😭😭😭.<br>Somos el mismito demonio,por la avaricia y corrupción,abuso de poder y siempre lo mismo una y otra vez Genocidios,exclavitud etc<br>No puedo con estos videos me superan🙈🙉",
+                "textOriginal": "El ser humano lo destruye todo y no respetan nada,ni culturas,ni costumbres 🥺🤧😭😭😭.\nSomos el mismito demonio,por la avaricia y corrupción,abuso de poder y siempre lo mismo una y otra vez Genocidios,exclavitud etc\nNo puedo con estos videos me superan🙈🙉",
+                "authorDisplayName": "@mundoquinteristas8375",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/E38yNE81_fl9Awz3iE7q_FoegnZ0hFnUY66-65j8nYqAyB_hc24cL9qzAqQA7jG6yo5wqbOX=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@mundoquinteristas8375",
+                "authorChannelId": {
+                  "value": "UC8NvPnxnMy3QcckxceL6Iww"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-07-13T16:06:17Z",
+                "updatedAt": "2023-07-13T16:07:25Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "o4igcJd7IIt--ecmCTV4poO5xaw",
+          "id": "Ugz2f_JE5iK1Nuqn6-x4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "XKRw-IDrjwXjGgFjPgN3EWneIW8",
+              "id": "Ugz2f_JE5iK1Nuqn6-x4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Estan bravo que elseñir nacio parasalvar alos pobres ylispecadodes lean labiblia.  Donde eldice. Los pibres eselreino deloscielos.   Amen.   😢😮😮😮😅😮😮",
+                "textOriginal": "Estan bravo que elseñir nacio parasalvar alos pobres ylispecadodes lean labiblia.  Donde eldice. Los pibres eselreino deloscielos.   Amen.   😢😮😮😮😅😮😮",
+                "authorDisplayName": "@CarmenGarcia-ne3ch",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_miUtWKt5tLsiGrRcoqzoOVMjDtw5Xjpv62bLlIZ3g=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@CarmenGarcia-ne3ch",
+                "authorChannelId": {
+                  "value": "UC-iEiVLtQ8hSo-Sk11epUpA"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-06-30T12:43:27Z",
+                "updatedAt": "2023-06-30T12:43:27Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "pmOk1PpRzKBQMLNnrgyu2pKLo6g",
+          "id": "UgxkLbO92w37zzPmLVh4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "gJ5FicERYdEYLgzx6Ge_x9gFL-w",
+              "id": "UgxkLbO92w37zzPmLVh4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "“LOS RICOS Y POBRES”\r<br>“Hay una diferencia entre los pobres y los ricos, los pobres viven en este mundo en un infierno y los ricos en la gloria de este mundo libertino, ¿Qué hay para los pobres que mueren? La gloria de Dios  para los pobres, ¡En el gobierno del Rey de gloria el Cristo por mil años en el mundo, las cárceles serán serradas y las mujeres aran que los hombre se avergüencen por no ver valorado las cualidades morales y las a vialidades de ellas, al contrario las han marginado violando “Los derechos humanos de tener paz y ser felices”\r<br>¡Mensaje de Dios para los pobres del mundo! Dijo: el profeta Isaías 61:1”El Espíritu de Dios, el Señor, esta sobre mí, porque me ungió para predicar buenas nuevas a los pobres. Me en vio a vendar a los quebrantados de corazón, los que temen a Dios, vera la gloria del Señor porque el Espíritu de Dios los guiaran para que tengan el dominio propio dependiendo del que dijo yo soy la Luz del mundo, dice la Biblia Mateo 5:3.\r<br>“Lo que está aconteciendo en el mundo es señal de que pronto se acabara el libertinaje del diablo, porque viene el orden mundial establecido por el Rey de gloria el Cristo a governar , 1 Co…<a href=\"https://www.youtube.com/watch?v=HN21Fs3_0UM&amp;t=925\">15:25</a> y Romanos 5:21”.",
+                "textOriginal": "“LOS RICOS Y POBRES”\r\n“Hay una diferencia entre los pobres y los ricos, los pobres viven en este mundo en un infierno y los ricos en la gloria de este mundo libertino, ¿Qué hay para los pobres que mueren? La gloria de Dios  para los pobres, ¡En el gobierno del Rey de gloria el Cristo por mil años en el mundo, las cárceles serán serradas y las mujeres aran que los hombre se avergüencen por no ver valorado las cualidades morales y las a vialidades de ellas, al contrario las han marginado violando “Los derechos humanos de tener paz y ser felices”\r\n¡Mensaje de Dios para los pobres del mundo! Dijo: el profeta Isaías 61:1”El Espíritu de Dios, el Señor, esta sobre mí, porque me ungió para predicar buenas nuevas a los pobres. Me en vio a vendar a los quebrantados de corazón, los que temen a Dios, vera la gloria del Señor porque el Espíritu de Dios los guiaran para que tengan el dominio propio dependiendo del que dijo yo soy la Luz del mundo, dice la Biblia Mateo 5:3.\r\n“Lo que está aconteciendo en el mundo es señal de que pronto se acabara el libertinaje del diablo, porque viene el orden mundial establecido por el Rey de gloria el Cristo a governar , 1 Co…15:25 y Romanos 5:21”.",
+                "authorDisplayName": "@jhonatanmolina-pf6qq",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_ldr9MvPwL_XnqBWxK8N4pKs_sUOVWY_2FO9snKepft08roYVA3DvVfn_RQxWV73nFIAw=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@jhonatanmolina-pf6qq",
+                "authorChannelId": {
+                  "value": "UC1nShiX80trGDY4WEMdWiSg"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-05-16T23:22:03Z",
+                "updatedAt": "2023-05-16T23:22:03Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "5BuZj4YkKr7C1JD8rUjUNUrWqv4",
+          "id": "UgwBBWnOOa9kR8Z4HPZ4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "VDgta974jz4uwqGyEL6sc_qligM",
+              "id": "UgwBBWnOOa9kR8Z4HPZ4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "<a href=\"https://www.youtube.com/watch?v=HN21Fs3_0UM&amp;t=65\">01:05</a> Yubba dubba do. <a href=\"UCkszU2WH9gy1mb0dV-11UJg/m8MfY4jbFsWJhL0PyouA2Ak\"></a>",
+                "textOriginal": "01:05 Yubba dubba do. ",
+                "authorDisplayName": "@arthur-ri4zo",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_my_Q8E6z1tGmEvR3do2vahpmtcQRQbjsr8x9XUGhdFzRbfOBSM4d22iNmTU-9tq70Fcg=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@arthur-ri4zo",
+                "authorChannelId": {
+                  "value": "UCU-5j6qKr-x8fUEe-REQJGA"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2023-05-10T22:58:29Z",
+                "updatedAt": "2023-05-10T23:03:36Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "XO3ydPbLbgN9VO-KcYRyuPEcLQk",
+          "id": "Ugy2xzogRtuJ_B8v4Bp4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "erx2UgzDRVFGAudK64u-ACoG-MM",
+              "id": "Ugy2xzogRtuJ_B8v4Bp4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "ชอบ",
+                "textOriginal": "ชอบ",
+                "authorDisplayName": "@JoJom-in3lg",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nQWtDjnkGaIYmOsk65bxLAmt6sDD9KGCnr9j4CzKha7Ht707dqW4PbsI-coFFXsWHIFA=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@JoJom-in3lg",
+                "authorChannelId": {
+                  "value": "UCZN9vkcdt4IxwRD4w-wnx9Q"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-05-05T22:12:04Z",
+                "updatedAt": "2023-05-05T22:12:04Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "1vYk3OSZ4Y_mlFJi9W4Qpah8zPU",
+          "id": "UgzA4j4CmXH9getCuQh4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "3MIDlALMQXadxL9q28sTF6XPeyY",
+              "id": "UgzA4j4CmXH9getCuQh4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Esos no son esclavos modernos esos son libres porque no trabajan para pagar la targeta de credito ni la electricidad ni los impuestos pescan y casan de los que les da la naturaleza esos son los indios los primitivos<br>Hoy dia la gente es esclava viven para trabajar y pagar deudas los de la civilizacion 😄😄😄",
+                "textOriginal": "Esos no son esclavos modernos esos son libres porque no trabajan para pagar la targeta de credito ni la electricidad ni los impuestos pescan y casan de los que les da la naturaleza esos son los indios los primitivos\nHoy dia la gente es esclava viven para trabajar y pagar deudas los de la civilizacion 😄😄😄",
+                "authorDisplayName": "@AnaGonzalez-fv1ci",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_n8sw_Bt7i8OePZDJHQazu5EWW7-06EtH8NGpv-zq0=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@AnaGonzalez-fv1ci",
+                "authorChannelId": {
+                  "value": "UCGi8UovIrUA2G1EIw7aeIVA"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-04-29T23:41:47Z",
+                "updatedAt": "2023-04-29T23:41:47Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "cC1XBrqyhGkmiYhNlZNTiKWCffE",
+          "id": "UgwNawdM9ZzpFSziGyt4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "cnUXeefeMyCY2onwwQIrdzf1tGQ",
+              "id": "UgwNawdM9ZzpFSziGyt4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "O QUE FAZ DESAPARECER? CELULAR, ONTERNET E ÁLCOOL.<br>Muitos jovens saem das aldeias e vão viver nas cidades não querendo mais voltar. Mineração legalizada é até pior.",
+                "textOriginal": "O QUE FAZ DESAPARECER? CELULAR, ONTERNET E ÁLCOOL.\nMuitos jovens saem das aldeias e vão viver nas cidades não querendo mais voltar. Mineração legalizada é até pior.",
+                "authorDisplayName": "@53022347",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lIA_Q_4V9h5ycB8_C7EqLCUcMicUNA4xEJTShF56c=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@53022347",
+                "authorChannelId": {
+                  "value": "UCQ3pE5D_NGwjWO3XqwwJjJA"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2023-04-19T01:19:48Z",
+                "updatedAt": "2023-04-19T01:19:48Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "BE4gf8IV51qz3jW32y-UrMTSYSM",
+          "id": "UgxqzJk9wShPvZgkfmN4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "qs0La3hAJNjM2s0B3nes_wde3FQ",
+              "id": "UgxqzJk9wShPvZgkfmN4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Estão matando os Yanomamis para roubar suas terras. Tem que tirar estes garimpeiros genocidas das terras indígenas e prender os patrocinadores destes garimpos.",
+                "textOriginal": "Estão matando os Yanomamis para roubar suas terras. Tem que tirar estes garimpeiros genocidas das terras indígenas e prender os patrocinadores destes garimpos.",
+                "authorDisplayName": "@marlybahia4190",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lVyaMtwx9ssp3VpUXMT8DcToeOxYedGIZjvuX5Gj_fiSyh=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@marlybahia4190",
+                "authorChannelId": {
+                  "value": "UCCMvX0f-7jaWfHokVI7O_-g"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-04-14T02:37:30Z",
+                "updatedAt": "2023-04-14T02:39:17Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "saAIpgJ8R2uwRaXpKXThhJzecas",
+          "id": "UgzTczwNbecFuUvf4b54AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "3jh9i2Avj0yGtQ1E2voja7LpqlU",
+              "id": "UgzTczwNbecFuUvf4b54AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Qpao con Derecho humano",
+                "textOriginal": "Qpao con Derecho humano",
+                "authorDisplayName": "@AlfredoGarcia-mn9ff",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lN1r14JyVE1HV827fOA4jwcUpML9JATe2vub3wBZwgdO1_u1mEpcWHSejRd9oj5lcaaA=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@AlfredoGarcia-mn9ff",
+                "authorChannelId": {
+                  "value": "UCQwRGz_ei7eOpc8XA4Sgx0A"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-04-13T22:45:41Z",
+                "updatedAt": "2023-04-13T22:45:41Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "K8rLf3mxlrmqn_HP7dcngyxBedk",
+          "id": "Ugxh8vHyzNux46SUMxJ4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "vnQn2dmvpN6e2cJXZll1Nckh034",
+              "id": "Ugxh8vHyzNux46SUMxJ4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "OVER Y SU MUSMUKI - SOY UN NATIVO  canción dedicada a la amazonía y a los pueblos originarios",
+                "textOriginal": "OVER Y SU MUSMUKI - SOY UN NATIVO  canción dedicada a la amazonía y a los pueblos originarios",
+                "authorDisplayName": "@urkidezmanuyama3926",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mUf7WYhR1k52Y8HUjrcF5GrXWnd14ap6L1lapvsdeCRA=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@urkidezmanuyama3926",
+                "authorChannelId": {
+                  "value": "UCF4tVl7xt-WXwWYFppdr5HQ"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2023-04-12T19:51:20Z",
+                "updatedAt": "2023-04-12T19:51:20Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "Z-07Se7ubW86a5DX5rjfR4X0724",
+          "id": "UgyXrAkJj4PODZDXHah4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "e4jf5qfkHs4HBAkWO-Ke7wI77zo",
+              "id": "UgyXrAkJj4PODZDXHah4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "LULA VOLTOU... O GENOCÍDIO ACABOU!!! Em apenas 90 dias todos os invasores foram expulsos pelo exército e polícia federal das terras yanomamis e toda ajuda humanitária foi concluída rapidamente... A vida e esperança de nosso povo indígena está de volta! 👏👏👏😉",
+                "textOriginal": "LULA VOLTOU... O GENOCÍDIO ACABOU!!! Em apenas 90 dias todos os invasores foram expulsos pelo exército e polícia federal das terras yanomamis e toda ajuda humanitária foi concluída rapidamente... A vida e esperança de nosso povo indígena está de volta! 👏👏👏😉",
+                "authorDisplayName": "@madboyfull",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_l9xx-s6i2rlYaf8CDSbzpaUzpOnl2E_SVw_5ijEJ1siQ=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@madboyfull",
+                "authorChannelId": {
+                  "value": "UCN5y-6v1sBgtyulzBpPihPw"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-04-11T13:59:31Z",
+                "updatedAt": "2023-04-11T14:07:40Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "jov6D-ojCrb-8MWgJZF0dHthH1Q",
+          "id": "UgwoB5FYJZvCs3Yf1zR4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "2f5xqaWvu4jiO1TdSVyoRKkwYBY",
+              "id": "UgwoB5FYJZvCs3Yf1zR4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Que tremendo tú programa  pena debería darnos  nosotros mismos estamos  en la obligación de poder salvar esa cultura💯🌎☮️🇻🇪",
+                "textOriginal": "Que tremendo tú programa  pena debería darnos  nosotros mismos estamos  en la obligación de poder salvar esa cultura💯🌎☮️🇻🇪",
+                "authorDisplayName": "@josegregoriomathisonsilva2719",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mZTaHB_dUrjdxVPzWHPSBBiQ8yLcuryhd4EkW86K1c1ICS_z_qpEkyUfbcf4p_XGWlCw=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@josegregoriomathisonsilva2719",
+                "authorChannelId": {
+                  "value": "UCC1hox2Gy4Y4LweImfKO_vg"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 10,
+                "publishedAt": "2023-04-09T16:17:23Z",
+                "updatedAt": "2023-04-09T16:17:23Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "JfQIiVXRWbtfvXnAF_JaOiECPH0",
+          "id": "UgwkunoP8_h-nffU6jZ4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "BSqRPI15IXR7IfC8yp98KBLBnL8",
+              "id": "UgwkunoP8_h-nffU6jZ4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Vamos antes de falar de nosso Brasil e de nossa venha você mesmo sou ribeirinho e o que você está colocando nesse vídeo é uma repetição daqueles impedir o desenvolvimento brasileiro e cria narrativas verídicas.<br>Os ianomâmis estão dividido entre duas nações a venezuelana e a brasileira. O Brasil faz no lado brasileiro porém os exames são livres para transitar entre as duas nações e como você pode perceber até mesmo os cidadãos venezuelanos não indígenas passam por grande de dificuldade fome o que faz com que haja uma grande migração destes para o Brasil. Se isso ocorre com os venezuelanos não indígenas, o que você acha que acontece com os indígenas yanomamis venezuelanos? Estes fogem da falta de assistência e migram para o Brasil. E quando aqui chegam  estam desnutridos e doententes. Mas infelizmente nós brasileiros passamos por processos de descontração de nossos valores e a grande e velha mídia tenta ecelerar estre processo desconstruindo nossa imagem internacional para atender interesse obscuros do capital estrangeiro, que tentam relativizar nossa soberania e nossas riquezas. <br>Estude mais ou venha a amazônia brasileira antes de falarem bobagens ou postarem vision papagaios.",
+                "textOriginal": "Vamos antes de falar de nosso Brasil e de nossa venha você mesmo sou ribeirinho e o que você está colocando nesse vídeo é uma repetição daqueles impedir o desenvolvimento brasileiro e cria narrativas verídicas.\nOs ianomâmis estão dividido entre duas nações a venezuelana e a brasileira. O Brasil faz no lado brasileiro porém os exames são livres para transitar entre as duas nações e como você pode perceber até mesmo os cidadãos venezuelanos não indígenas passam por grande de dificuldade fome o que faz com que haja uma grande migração destes para o Brasil. Se isso ocorre com os venezuelanos não indígenas, o que você acha que acontece com os indígenas yanomamis venezuelanos? Estes fogem da falta de assistência e migram para o Brasil. E quando aqui chegam  estam desnutridos e doententes. Mas infelizmente nós brasileiros passamos por processos de descontração de nossos valores e a grande e velha mídia tenta ecelerar estre processo desconstruindo nossa imagem internacional para atender interesse obscuros do capital estrangeiro, que tentam relativizar nossa soberania e nossas riquezas. \nEstude mais ou venha a amazônia brasileira antes de falarem bobagens ou postarem vision papagaios.",
+                "authorDisplayName": "@ale_andarilho",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/X_u4PKrN-QfCLRPWbZSxyKEyEKrG1n2_Yn1R75lvHwVMnNC3RtcZou8UDLEIFV6-oBZWpzgHivo=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@ale_andarilho",
+                "authorChannelId": {
+                  "value": "UCgfZOTcaQgv4QqtRKr1qRIA"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 3,
+                "publishedAt": "2023-04-08T23:38:32Z",
+                "updatedAt": "2023-04-08T23:38:32Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+          },
+          "comments": {
+            "items": [
+              {
+                "kind": "youtube#comment",
+                "etag": "mzgshIZvhEuuMN4iKKFZeIqsME8",
+                "id": "UgwkunoP8_h-nffU6jZ4AaABAg.9oGJdzRCRfu9oGJrFCKGcN",
+                "snippet": {
+                  "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                  "textDisplay": "Desculpe os muitos erros do corretor automático",
+                  "textOriginal": "Desculpe os muitos erros do corretor automático",
+                  "parentId": "UgwkunoP8_h-nffU6jZ4AaABAg",
+                  "authorDisplayName": "@ale_andarilho",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/X_u4PKrN-QfCLRPWbZSxyKEyEKrG1n2_Yn1R75lvHwVMnNC3RtcZou8UDLEIFV6-oBZWpzgHivo=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@ale_andarilho",
+                  "authorChannelId": {
+                    "value": "UCgfZOTcaQgv4QqtRKr1qRIA"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2023-04-08T23:40:20Z",
+                  "updatedAt": "2023-04-08T23:40:20Z"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "-_MC0ba4rwFzGCNyQk9eMqZosxM",
+                "id": "UgwkunoP8_h-nffU6jZ4AaABAg.9oGJdzRCRfu9oTAPTzmeKS",
+                "snippet": {
+                  "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                  "textDisplay": "Deixa de conversa, e Bolsonaro vai pagar caro tudo que fez no Brasil.",
+                  "textOriginal": "Deixa de conversa, e Bolsonaro vai pagar caro tudo que fez no Brasil.",
+                  "parentId": "UgwkunoP8_h-nffU6jZ4AaABAg",
+                  "authorDisplayName": "@jeffmesquita8237",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k9kHYZtSDn-VxuBG-fRIEGbEsRDholOEVL04nzdr9HgHM=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@jeffmesquita8237",
+                  "authorChannelId": {
+                    "value": "UC77_J0vuFn2cEAgIUkphCsA"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2023-04-13T23:27:53Z",
+                  "updatedAt": "2023-04-13T23:27:53Z"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "4fG2WDcrSnPtO43ylXlvaPHy2qc",
+          "id": "UgzjGpifmaiNb-jhoPF4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "A7dhI6dZmTQjLnPZxYvdmPi2DnA",
+              "id": "UgzjGpifmaiNb-jhoPF4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Los están extinguiendo por lo que regresarán al inframundo. Escuche que ellos tienen el permiso de hacerlo. Ellos tienen sus leyendas",
+                "textOriginal": "Los están extinguiendo por lo que regresarán al inframundo. Escuche que ellos tienen el permiso de hacerlo. Ellos tienen sus leyendas",
+                "authorDisplayName": "@shirlynnross1575",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/PBwg0YDLHjgS5BO7WlK9CfOYjjcfI8pZatxsPUjUn_Ntk4pDh5PPg2fCxf91DlFgoTjjgLg8aA=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@shirlynnross1575",
+                "authorChannelId": {
+                  "value": "UCMP4e8xVnfsjV-SmBdh3czA"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-04-08T17:29:29Z",
+                "updatedAt": "2023-04-08T17:29:29Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "VfoHbdBWC6SgoS-JoM5GiWWUr4M",
+          "id": "Ugxn-ljYjXaN7GI-f8p4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "Ulv6Ybrr4OL76aRtfWbw3CgUE_Y",
+              "id": "Ugxn-ljYjXaN7GI-f8p4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Tudo é verdade! (Todo es verdad)! (Brasil,07/04/23).",
+                "textOriginal": "Tudo é verdade! (Todo es verdad)! (Brasil,07/04/23).",
+                "authorDisplayName": "@sebastiaocardoso4290",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nszW2XRRtLjrr6Gs0OZpeiqY96WAL8epGw-tUUlb0=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@sebastiaocardoso4290",
+                "authorChannelId": {
+                  "value": "UC-cS1rPHmFWJzryn4j3LkPw"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 5,
+                "publishedAt": "2023-04-07T12:39:01Z",
+                "updatedAt": "2023-04-07T12:39:01Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "comments": {
+            "items": [
+              {
+                "kind": "youtube#comment",
+                "etag": "IWWBiiXKUpaOgxhWntuG6TReGuY",
+                "id": "Ugxn-ljYjXaN7GI-f8p4AaABAg.9oCZNk73YqY9oGJvyQTcdX",
+                "snippet": {
+                  "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                  "textDisplay": "Mentiroso",
+                  "textOriginal": "Mentiroso",
+                  "parentId": "Ugxn-ljYjXaN7GI-f8p4AaABAg",
+                  "authorDisplayName": "@ale_andarilho",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/X_u4PKrN-QfCLRPWbZSxyKEyEKrG1n2_Yn1R75lvHwVMnNC3RtcZou8UDLEIFV6-oBZWpzgHivo=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@ale_andarilho",
+                  "authorChannelId": {
+                    "value": "UCgfZOTcaQgv4QqtRKr1qRIA"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2023-04-08T23:40:58Z",
+                  "updatedAt": "2023-04-08T23:40:58Z"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "5IpTttTQYwzX2-wPzUR3ejd5fK0",
+          "id": "Ugxm1gNT7CDoS7spc1h4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "5CRy2vs-kv62VtdHxBGfz9j7J64",
+              "id": "Ugxm1gNT7CDoS7spc1h4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Excelente",
+                "textOriginal": "Excelente",
+                "authorDisplayName": "@GloriaBastidas63",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_lk3R8Bg0fJusjx3rVyopPvRiWB53ZI8MVQW2d6NCnxPcpk=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@GloriaBastidas63",
+                "authorChannelId": {
+                  "value": "UCtzGo0pv3xxmO5Z1VHUQhPQ"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2023-04-07T01:31:33Z",
+                "updatedAt": "2023-04-07T01:31:33Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "YxlNB8yzY4SEapbjH565-j3qnq0",
+          "id": "UgyOFgcP8E2POiexAVl4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "shQfyGlWsxYsJbvoBkou3UvVR00",
+              "id": "UgyOFgcP8E2POiexAVl4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "<b>QUEM DISSE que os ianomamis são &#39;&#39;la tribu más grande del Amazonas&#39;&#39;????</b>",
+                "textOriginal": "*QUEM DISSE que os ianomamis são ''la tribu más grande del Amazonas''????*",
+                "authorDisplayName": "@mmxxvid.c8485",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_k18TQOefWzLa5SvdJmEE0dDZLfk4am4CaTqv-UUpCP4ll3lucs6Ttsxlbnh6UOy4Y8dw=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@mmxxvid.c8485",
+                "authorChannelId": {
+                  "value": "UClzCscXopN_Ewv1H5Sp4-3w"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 0,
+                "publishedAt": "2023-04-05T20:41:21Z",
+                "updatedAt": "2023-04-05T20:41:21Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "0S5kYI_PlZJD88Th4aoQy4VBUPI",
+          "id": "UgzXNJGdX9vTn1mWQwR4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "rsdGR2qzNZrXYy-cOklnB60LQCE",
+              "id": "UgzXNJGdX9vTn1mWQwR4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Saludos Lifeder eres increíble ❤",
+                "textOriginal": "Saludos Lifeder eres increíble ❤",
+                "authorDisplayName": "@pasionporelfutbol2525",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/LtSOki7Iyxpk58NLZah-OUSR94wtZwM5MtZzXwiEIRoLD_Npv7UshDVnFg1g0SLvvDKIORS_bQs=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@pasionporelfutbol2525",
+                "authorChannelId": {
+                  "value": "UCqpvCpf1w29hO-UVwh5WC8w"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 4,
+                "publishedAt": "2023-04-05T13:51:19Z",
+                "updatedAt": "2023-04-05T13:51:19Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "pE9EF_l10c92ssEqQ12QbBgpPzk",
+          "id": "UgxZ3WwwdQtvtyvVWd54AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "c03c15m92RtWyJOF481Gjl9AF_o",
+              "id": "UgxZ3WwwdQtvtyvVWd54AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Saludos lifeder de tu fans ecuatoriano",
+                "textOriginal": "Saludos lifeder de tu fans ecuatoriano",
+                "authorDisplayName": "@israelaltamirano2310",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/RTd4Jl8S68p0NFsM9Qc9fjzNNIdIhtrjl4GvFE3cuhMp4zTDlNN5F0MALhr9PAn0TRJKojC1=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@israelaltamirano2310",
+                "authorChannelId": {
+                  "value": "UCEEx9gfUGOkbVqcPuDija6Q"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 2,
+                "publishedAt": "2023-04-05T12:57:35Z",
+                "updatedAt": "2023-04-05T12:57:35Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 0,
+            "isPublic": true
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "UnwdCUaCpbZeVX7QAJ5o5WveynY",
+          "id": "UgzQfFsBJHb1DZiD54Z4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "Jdn5VlxwT_K4ygYoFNqAHFvrjsA",
+              "id": "UgzQfFsBJHb1DZiD54Z4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "Tranquilos emocionados y felices que aquí estoy",
+                "textOriginal": "Tranquilos emocionados y felices que aquí estoy",
+                "authorDisplayName": "@elcanalderebeca",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/2gezJlKAEDaVTcroQECw13EuvgT7miP6C2pGI6ZvpJRaEhAHeQI6Ly36p8uuotGGIQm7T3XRtpQ=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@elcanalderebeca",
+                "authorChannelId": {
+                  "value": "UCIW1CGmCSSPDFFH6Kk2o27A"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 1,
+                "publishedAt": "2023-04-05T12:54:24Z",
+                "updatedAt": "2023-04-05T12:54:24Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 2,
+            "isPublic": true
+          },
+          "comments": {
+            "items": [
+              {
+                "kind": "youtube#comment",
+                "etag": "O9ndAXWNup28qBMdxxjXunivdUg",
+                "id": "UgzQfFsBJHb1DZiD54Z4AaABAg.9o7RYfdrfwd9o7aAwhp6Ug",
+                "snippet": {
+                  "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                  "textDisplay": "Es una  pena que pasa  Ten.Fe <br>Ten Esperanza 🙏🌱🕊🙏🙏⭐<br>😭😭😭😭😭😭😭😭🙏⭐🌱🕊<br>Felices Pascuas 🌱🙏😭😭😭😭🙏😭😭😭🙏⭐🇧🇷🇪🇨🇵🇪😭😭",
+                  "textOriginal": "Es una  pena que pasa  Ten.Fe \nTen Esperanza 🙏🌱🕊🙏🙏⭐\n😭😭😭😭😭😭😭😭🙏⭐🌱🕊\nFelices Pascuas 🌱🙏😭😭😭😭🙏😭😭😭🙏⭐🇧🇷🇪🇨🇵🇪😭😭",
+                  "parentId": "UgzQfFsBJHb1DZiD54Z4AaABAg",
+                  "authorDisplayName": "@jhennyramos9409",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nQWtDjnkGaIYmOsk65bxLAmt6sDD9KGCnr9j4CzKha7Ht707dqW4PbsI-coFFXsWHIFA=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@jhennyramos9409",
+                  "authorChannelId": {
+                    "value": "UCM2L6NklXAWfq2vCGYrk3qA"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2023-04-05T14:18:32Z",
+                  "updatedAt": "2023-04-05T14:18:32Z"
+                }
+              },
+              {
+                "kind": "youtube#comment",
+                "etag": "ZQER5YSf3u0-KENSgeEZleE8wZI",
+                "id": "UgzQfFsBJHb1DZiD54Z4AaABAg.9o7RYfdrfwd9oGK4kqHqmR",
+                "snippet": {
+                  "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                  "textDisplay": "És todo una mentira para desmoralizar El país brasilenho",
+                  "textOriginal": "És todo una mentira para desmoralizar El país brasilenho",
+                  "parentId": "UgzQfFsBJHb1DZiD54Z4AaABAg",
+                  "authorDisplayName": "@ale_andarilho",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/X_u4PKrN-QfCLRPWbZSxyKEyEKrG1n2_Yn1R75lvHwVMnNC3RtcZou8UDLEIFV6-oBZWpzgHivo=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@ale_andarilho",
+                  "authorChannelId": {
+                    "value": "UCgfZOTcaQgv4QqtRKr1qRIA"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 0,
+                  "publishedAt": "2023-04-08T23:42:19Z",
+                  "updatedAt": "2023-04-08T23:42:19Z"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "kind": "youtube#commentThread",
+          "etag": "t0xr2fXPZXp4gapA_cLtfX4dFVU",
+          "id": "UgzKYsBiffenICxq7zJ4AaABAg",
+          "snippet": {
+            "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+            "videoId": "HN21Fs3_0UM",
+            "topLevelComment": {
+              "kind": "youtube#comment",
+              "etag": "emxaBMP_MLLsh295H0rtOd91rN8",
+              "id": "UgzKYsBiffenICxq7zJ4AaABAg",
+              "snippet": {
+                "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                "videoId": "HN21Fs3_0UM",
+                "textDisplay": "¡Hola desde Tailandia! Amo tanto tus videos! ¡Mejores deseos para usted!💝💖💗💓💕❤🧡💛💚💙💜💯💯🙏🙏😇😇",
+                "textOriginal": "¡Hola desde Tailandia! Amo tanto tus videos! ¡Mejores deseos para usted!💝💖💗💓💕❤🧡💛💚💙💜💯💯🙏🙏😇😇",
+                "authorDisplayName": "@Thailandtravelvideo",
+                "authorProfileImageUrl": "https://yt3.ggpht.com/sQ8z64u9FDTu_E7mwkusFW3A7wT82N431S28YskJkjoN-gcyvtmnDgCz1S8AnSkP9veQLNtD=s48-c-k-c0x00ffffff-no-rj",
+                "authorChannelUrl": "http://www.youtube.com/@Thailandtravelvideo",
+                "authorChannelId": {
+                  "value": "UCpucCbjAHjo_b3KIczaq8Rg"
+                },
+                "canRate": true,
+                "viewerRating": "none",
+                "likeCount": 6,
+                "publishedAt": "2023-04-05T12:54:02Z",
+                "updatedAt": "2023-04-05T12:54:02Z"
+              }
+            },
+            "canReply": true,
+            "totalReplyCount": 1,
+            "isPublic": true
+          },
+          "comments": {
+            "items": [
+              {
+                "kind": "youtube#comment",
+                "etag": "s9OkvG2X1hFBHSZTgNuoj5QkI5E",
+                "id": "UgzKYsBiffenICxq7zJ4AaABAg.9o7RVt3eo0T9oE52eVTbrR",
+                "snippet": {
+                  "channelId": "UCiP5vmNYR-LuUA3LARZBAoQ",
+                  "textDisplay": "Hola, muchas gracias",
+                  "textOriginal": "Hola, muchas gracias",
+                  "parentId": "UgzKYsBiffenICxq7zJ4AaABAg",
+                  "authorDisplayName": "@Lifedervideo",
+                  "authorProfileImageUrl": "https://yt3.ggpht.com/ENShZ_lzoQaIkB4TyZ6heNl-dvZKY0EKV34xL3oQOXCHzNZxo4kB6oeSeATVQ9DgLPBbaT1q7Q=s48-c-k-c0x00ffffff-no-rj",
+                  "authorChannelUrl": "http://www.youtube.com/@Lifedervideo",
+                  "authorChannelId": {
+                    "value": "UCiP5vmNYR-LuUA3LARZBAoQ"
+                  },
+                  "canRate": true,
+                  "viewerRating": "none",
+                  "likeCount": 1,
+                  "publishedAt": "2023-04-08T02:52:28Z",
+                  "updatedAt": "2023-04-08T02:52:28Z"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
